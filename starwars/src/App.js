@@ -42,6 +42,7 @@ const App = () => {
         <StarWarsList charList={list} />
       } */}
       <StarWarsList charList={list} />
+      
       {/* {error ? 
         <div className="error">
           <h2>Oopsies! You have an error!</h2>
